@@ -7,4 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1317-monthly-transactions-i](https://github.com/makadiyavatsall/DSA/tree/master/1317-monthly-transactions-i) |
+## Array
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/makadiyavatsall/DSA/tree/master/0283-move-zeroes) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/makadiyavatsall/DSA/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
