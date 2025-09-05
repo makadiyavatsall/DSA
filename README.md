@@ -25,9 +25,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/makadiyavatsall/DSA/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/makadiyavatsall/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/makadiyavatsall/DSA/tree/master/0242-valid-anagram) |
 | [1019-squares-of-a-sorted-array](https://github.com/makadiyavatsall/DSA/tree/master/1019-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/makadiyavatsall/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/makadiyavatsall/DSA/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/makadiyavatsall/DSA/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
