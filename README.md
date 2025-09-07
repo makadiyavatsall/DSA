@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/makadiyavatsall/DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/makadiyavatsall/DSA/tree/master/0283-move-zeroes) |
 | [1019-squares-of-a-sorted-array](https://github.com/makadiyavatsall/DSA/tree/master/1019-squares-of-a-sorted-array) |
+| [2465-shifting-letters-ii](https://github.com/makadiyavatsall/DSA/tree/master/2465-shifting-letters-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -36,4 +37,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/makadiyavatsall/DSA/tree/master/0242-valid-anagram) |
+| [2465-shifting-letters-ii](https://github.com/makadiyavatsall/DSA/tree/master/2465-shifting-letters-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [2465-shifting-letters-ii](https://github.com/makadiyavatsall/DSA/tree/master/2465-shifting-letters-ii) |
 <!---LeetCode Topics End-->
