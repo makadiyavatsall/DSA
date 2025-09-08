@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/makadiyavatsall/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1184-car-pooling](https://github.com/makadiyavatsall/DSA/tree/master/1184-car-pooling) |
 | [1206-corporate-flight-bookings](https://github.com/makadiyavatsall/DSA/tree/master/1206-corporate-flight-bookings) |
+| [1983-maximum-population-year](https://github.com/makadiyavatsall/DSA/tree/master/1983-maximum-population-year) |
 | [2465-shifting-letters-ii](https://github.com/makadiyavatsall/DSA/tree/master/2465-shifting-letters-ii) |
 | [3639-zero-array-transformation-i](https://github.com/makadiyavatsall/DSA/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/makadiyavatsall/DSA/tree/master/3643-zero-array-transformation-ii) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1184-car-pooling](https://github.com/makadiyavatsall/DSA/tree/master/1184-car-pooling) |
 | [1206-corporate-flight-bookings](https://github.com/makadiyavatsall/DSA/tree/master/1206-corporate-flight-bookings) |
+| [1983-maximum-population-year](https://github.com/makadiyavatsall/DSA/tree/master/1983-maximum-population-year) |
 | [2465-shifting-letters-ii](https://github.com/makadiyavatsall/DSA/tree/master/2465-shifting-letters-ii) |
 | [3639-zero-array-transformation-i](https://github.com/makadiyavatsall/DSA/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/makadiyavatsall/DSA/tree/master/3643-zero-array-transformation-ii) |
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1184-car-pooling](https://github.com/makadiyavatsall/DSA/tree/master/1184-car-pooling) |
+## Counting
+|  |
+| ------- |
+| [1983-maximum-population-year](https://github.com/makadiyavatsall/DSA/tree/master/1983-maximum-population-year) |
 <!---LeetCode Topics End-->
