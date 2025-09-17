@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/makadiyavatsall/DSA/tree/master/0014-longest-common-prefix) |
+| [0035-search-insert-position](https://github.com/makadiyavatsall/DSA/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/makadiyavatsall/DSA/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/makadiyavatsall/DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/makadiyavatsall/DSA/tree/master/0283-move-zeroes) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/makadiyavatsall/DSA/tree/master/0035-search-insert-position) |
 | [3643-zero-array-transformation-ii](https://github.com/makadiyavatsall/DSA/tree/master/3643-zero-array-transformation-ii) |
 ## Divide and Conquer
 |  |
