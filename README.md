@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/makadiyavatsall/DSA/tree/master/0014-longest-common-prefix) |
+| [0016-3sum-closest](https://github.com/makadiyavatsall/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/makadiyavatsall/DSA/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/makadiyavatsall/DSA/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/makadiyavatsall/DSA/tree/master/0042-trapping-rain-water) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/makadiyavatsall/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/makadiyavatsall/DSA/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/makadiyavatsall/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/makadiyavatsall/DSA/tree/master/0075-sort-colors) |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/makadiyavatsall/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/makadiyavatsall/DSA/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/makadiyavatsall/DSA/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/makadiyavatsall/DSA/tree/master/0217-contains-duplicate) |
