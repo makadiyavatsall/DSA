@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/makadiyavatsall/DSA/tree/master/0307-range-sum-query-mutable) |
 | [0525-contiguous-array](https://github.com/makadiyavatsall/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/makadiyavatsall/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/makadiyavatsall/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/makadiyavatsall/DSA/tree/master/0724-find-pivot-index) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/makadiyavatsall/DSA/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/makadiyavatsall/DSA/tree/master/1019-squares-of-a-sorted-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/makadiyavatsall/DSA/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/makadiyavatsall/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/makadiyavatsall/DSA/tree/master/0242-valid-anagram) |
+| [0628-maximum-product-of-three-numbers](https://github.com/makadiyavatsall/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1019-squares-of-a-sorted-array](https://github.com/makadiyavatsall/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1184-car-pooling](https://github.com/makadiyavatsall/DSA/tree/master/1184-car-pooling) |
 ## Hash Table
@@ -150,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/makadiyavatsall/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/makadiyavatsall/DSA/tree/master/0567-permutation-in-string) |
+## Math
+|  |
+| ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/makadiyavatsall/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 <!---LeetCode Topics End-->
