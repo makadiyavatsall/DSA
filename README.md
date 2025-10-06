@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/makadiyavatsall/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/makadiyavatsall/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/makadiyavatsall/DSA/tree/master/0075-sort-colors) |
+| [0152-maximum-product-subarray](https://github.com/makadiyavatsall/DSA/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/makadiyavatsall/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/makadiyavatsall/DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/makadiyavatsall/DSA/tree/master/0283-move-zeroes) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/makadiyavatsall/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/makadiyavatsall/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/makadiyavatsall/DSA/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/makadiyavatsall/DSA/tree/master/0152-maximum-product-subarray) |
 ## Stack
 |  |
 | ------- |
