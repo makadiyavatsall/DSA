@@ -4,11 +4,14 @@ class Solution(object):
         :type s: List[str]
         :rtype: None Do not return anything, modify s in-place instead.
         """
-        n = len(s)
-        rev = [''] * n
+        left = 0
+        right = len(s) - 1
 
-        for i in range(n):
-            rev[i] = s[n - 1 - i]
+        while left < right:
+            # swap elements
+            s[left], s[right] = s[right], s[left]
 
-        for i in range(n):
-            s[i] = rev[i]
+            # move pointers
+            left += 1
+            right -= 1
+
