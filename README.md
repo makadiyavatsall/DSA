@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/makadiyavatsall/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/makadiyavatsall/DSA/tree/master/0021-merge-two-sorted-lists) |
 ## Enumeration
 |  |
 | ------- |
@@ -205,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/makadiyavatsall/DSA/tree/master/0078-subsets) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/makadiyavatsall/DSA/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
