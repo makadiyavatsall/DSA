@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/makadiyavatsall/DSA/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/makadiyavatsall/DSA/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/makadiyavatsall/DSA/tree/master/0029-divide-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/makadiyavatsall/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 ## Backtracking
 |  |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/makadiyavatsall/DSA/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/makadiyavatsall/DSA/tree/master/0078-subsets) |
 ## Recursion
 |  |
