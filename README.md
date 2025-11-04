@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/makadiyavatsall/DSA/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/makadiyavatsall/DSA/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/makadiyavatsall/DSA/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/makadiyavatsall/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/makadiyavatsall/DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/makadiyavatsall/DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/makadiyavatsall/DSA/tree/master/0057-insert-interval) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/makadiyavatsall/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/makadiyavatsall/DSA/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/makadiyavatsall/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/makadiyavatsall/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/makadiyavatsall/DSA/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/makadiyavatsall/DSA/tree/master/0217-contains-duplicate) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/makadiyavatsall/DSA/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/makadiyavatsall/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/makadiyavatsall/DSA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/makadiyavatsall/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/makadiyavatsall/DSA/tree/master/0242-valid-anagram) |
 | [0525-contiguous-array](https://github.com/makadiyavatsall/DSA/tree/master/0525-contiguous-array) |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/makadiyavatsall/DSA/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/makadiyavatsall/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/makadiyavatsall/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/makadiyavatsall/DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/makadiyavatsall/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/makadiyavatsall/DSA/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/makadiyavatsall/DSA/tree/master/0567-permutation-in-string) |
