@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/makadiyavatsall/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1755-defuse-the-bomb](https://github.com/makadiyavatsall/DSA/tree/master/1755-defuse-the-bomb) |
 | [1983-maximum-population-year](https://github.com/makadiyavatsall/DSA/tree/master/1983-maximum-population-year) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/makadiyavatsall/DSA/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/makadiyavatsall/DSA/tree/master/2102-find-the-middle-index-in-array) |
 | [2122-count-special-quadruplets](https://github.com/makadiyavatsall/DSA/tree/master/2122-count-special-quadruplets) |
 | [2465-shifting-letters-ii](https://github.com/makadiyavatsall/DSA/tree/master/2465-shifting-letters-ii) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/makadiyavatsall/DSA/tree/master/0567-permutation-in-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/makadiyavatsall/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/makadiyavatsall/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/makadiyavatsall/DSA/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Sorting
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/makadiyavatsall/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1184-car-pooling](https://github.com/makadiyavatsall/DSA/tree/master/1184-car-pooling) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/makadiyavatsall/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/makadiyavatsall/DSA/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -245,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/makadiyavatsall/DSA/tree/master/0070-climbing-stairs) |
+## Greedy
+|  |
+| ------- |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/makadiyavatsall/DSA/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 <!---LeetCode Topics End-->
