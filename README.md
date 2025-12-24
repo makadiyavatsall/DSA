@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/makadiyavatsall/DSA/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/makadiyavatsall/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/makadiyavatsall/DSA/tree/master/0078-subsets) |
+| [0128-longest-consecutive-sequence](https://github.com/makadiyavatsall/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/makadiyavatsall/DSA/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/makadiyavatsall/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/makadiyavatsall/DSA/tree/master/0209-minimum-size-subarray-sum) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/makadiyavatsall/DSA/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/makadiyavatsall/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/makadiyavatsall/DSA/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/makadiyavatsall/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/makadiyavatsall/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/makadiyavatsall/DSA/tree/master/0242-valid-anagram) |
 | [0525-contiguous-array](https://github.com/makadiyavatsall/DSA/tree/master/0525-contiguous-array) |
@@ -256,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0917-boats-to-save-people](https://github.com/makadiyavatsall/DSA/tree/master/0917-boats-to-save-people) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/makadiyavatsall/DSA/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/makadiyavatsall/DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
