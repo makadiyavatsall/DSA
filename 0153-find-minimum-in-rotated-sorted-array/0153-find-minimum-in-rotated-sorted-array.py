@@ -1,4 +1,17 @@
-class Solution:
-    def findMin(self, nums: List[int]) -> int:
-        sorted_arr = sorted(nums)
-        return sorted_arr[0]
+class Solution(object):
+    def findMin(self, nums):
+        left, right = 0, len(nums) - 1
+
+        while left < right:
+            mid = (left + right) // 2
+
+            if nums[mid] > nums[right]:
+                # Minimum is in right half
+                left = mid + 1
+            else:
+                # Minimum is in left half (including mid)
+                right = mid
+
+        return nums[left]
+
+        
