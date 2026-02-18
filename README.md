@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/makadiyavatsall/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/makadiyavatsall/DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/makadiyavatsall/DSA/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/makadiyavatsall/DSA/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/makadiyavatsall/DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/makadiyavatsall/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/makadiyavatsall/DSA/tree/master/0141-linked-list-cycle) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/makadiyavatsall/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/makadiyavatsall/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/makadiyavatsall/DSA/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/makadiyavatsall/DSA/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/makadiyavatsall/DSA/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/makadiyavatsall/DSA/tree/master/0143-reorder-list) |
 ## Enumeration
