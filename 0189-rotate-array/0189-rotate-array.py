@@ -5,15 +5,22 @@ class Solution:
             return
         
         k = k % n
-        solution = []
-        end = n - k
-
-        for i in range(end, n):
-            solution.append(nums[i])
-        for j in range(0, end):
-            solution.append(nums[j])
-
-        # Write back into nums (in-place modification)
-        nums[:] = solution
+        if k == 0:
+            return
+        
+        def reverse(l, r):
+            while l < r:
+                nums[l], nums[r] = nums[r], nums[l]
+                l += 1
+                r -= 1
+        
+        # Step 1: Reverse whole array
+        reverse(0, n - 1)
+        
+        # Step 2: Reverse first k elements
+        reverse(0, k - 1)
+        
+        # Step 3: Reverse remaining n-k elements
+        reverse(k, n - 1)
 
         
