@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/makadiyavatsall/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/makadiyavatsall/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/makadiyavatsall/DSA/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/makadiyavatsall/DSA/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/makadiyavatsall/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/makadiyavatsall/DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/makadiyavatsall/DSA/tree/master/0283-move-zeroes) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/makadiyavatsall/DSA/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/makadiyavatsall/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/makadiyavatsall/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/makadiyavatsall/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/makadiyavatsall/DSA/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/makadiyavatsall/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/makadiyavatsall/DSA/tree/master/0344-reverse-string) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/makadiyavatsall/DSA/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/makadiyavatsall/DSA/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/makadiyavatsall/DSA/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/makadiyavatsall/DSA/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/makadiyavatsall/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 ## Backtracking
 |  |
