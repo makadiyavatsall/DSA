@@ -8,14 +8,14 @@ class Solution:
         
         while l <= r:
             # Play smallest token face up if possible
-            if l <= r and power >= tokens[l]:
+            if power >= tokens[l]:
                 power -= tokens[l]
                 score += 1
                 l += 1
                 max_score = max(max_score, score)
             
             # Otherwise, play largest token face down if we have score to spend
-            elif l <= r and score > 0:
+            elif score > 0:
                 power += tokens[r]
                 score -= 1
                 r -= 1
