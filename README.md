@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1317-monthly-transactions-i](https://github.com/makadiyavatsall/DSA/tree/master/1317-monthly-transactions-i) |
 | [1527-patients-with-a-condition](https://github.com/makadiyavatsall/DSA/tree/master/1527-patients-with-a-condition) |
 | [1667-fix-names-in-a-table](https://github.com/makadiyavatsall/DSA/tree/master/1667-fix-names-in-a-table) |
+| [1729-find-followers-count](https://github.com/makadiyavatsall/DSA/tree/master/1729-find-followers-count) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/makadiyavatsall/DSA/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Array
 |  |
