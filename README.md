@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/makadiyavatsall/DSA/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/makadiyavatsall/DSA/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/makadiyavatsall/DSA/tree/master/0184-department-highest-salary) |
+| [0584-find-customer-referee](https://github.com/makadiyavatsall/DSA/tree/master/0584-find-customer-referee) |
 | [0596-classes-with-at-least-5-students](https://github.com/makadiyavatsall/DSA/tree/master/0596-classes-with-at-least-5-students) |
 | [0607-sales-person](https://github.com/makadiyavatsall/DSA/tree/master/0607-sales-person) |
 | [0619-biggest-single-number](https://github.com/makadiyavatsall/DSA/tree/master/0619-biggest-single-number) |
