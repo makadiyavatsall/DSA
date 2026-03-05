@@ -1,8 +1,6 @@
 class Solution:
     def divide(self, dividend: int, divisor: int) -> int:
-        """
-        Divides two integers without using multiplication, division, or the modulo operator.
-        """
+        
         # Define 32-bit signed integer limits
         MAX_INT = 2**31 - 1
         MIN_INT = -2**31
