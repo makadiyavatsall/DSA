@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/makadiyavatsall/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/makadiyavatsall/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/makadiyavatsall/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0043-multiply-strings](https://github.com/makadiyavatsall/DSA/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/makadiyavatsall/DSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/makadiyavatsall/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/makadiyavatsall/DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/makadiyavatsall/DSA/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/makadiyavatsall/DSA/tree/master/0054-spiral-matrix) |
 | [1184-car-pooling](https://github.com/makadiyavatsall/DSA/tree/master/1184-car-pooling) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/makadiyavatsall/DSA/tree/master/3417-zigzag-grid-traversal-with-skip) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/makadiyavatsall/DSA/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/makadiyavatsall/DSA/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/makadiyavatsall/DSA/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/makadiyavatsall/DSA/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/makadiyavatsall/DSA/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/makadiyavatsall/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/makadiyavatsall/DSA/tree/master/0189-rotate-array) |
