@@ -1,10 +1,6 @@
 class Solution(object):
     def strStr(self, haystack, needle):
-        """
-        :type haystack: str
-        :type needle: str
-        :rtype: int
-        """
+       
         # Edge case: if needle is empty, return 0
         if not needle:
             return 0
