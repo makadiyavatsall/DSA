@@ -1,13 +1,15 @@
-class Solution:
-    def subarraySum(self, nums, k):
+class Solution:   
+    def subarraySum(self, nums, k) -> int:
+        prefix_map = {0: 1}
+        curr_sum = 0
         count = 0
-        prefix_sum = 0
-        freq = {0: 1}  
 
         for num in nums:
-            prefix_sum += num
-            if prefix_sum - k in freq:
-                count += freq[prefix_sum - k]
-            freq[prefix_sum] = freq.get(prefix_sum, 0) + 1
+            curr_sum += num
 
-        return count
+            if (curr_sum - k) in prefix_map:
+                count += prefix_map[curr_sum - k]
+
+            prefix_map[curr_sum] = prefix_map.get(curr_sum, 0) + 1
+
+        return count     
