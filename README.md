@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/makadiyavatsall/DSA/tree/master/0724-find-pivot-index) |
 | [0917-boats-to-save-people](https://github.com/makadiyavatsall/DSA/tree/master/0917-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/makadiyavatsall/DSA/tree/master/0948-bag-of-tokens) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/makadiyavatsall/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/makadiyavatsall/DSA/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/makadiyavatsall/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1184-car-pooling](https://github.com/makadiyavatsall/DSA/tree/master/1184-car-pooling) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/makadiyavatsall/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/makadiyavatsall/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/makadiyavatsall/DSA/tree/master/0567-permutation-in-string) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/makadiyavatsall/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/makadiyavatsall/DSA/tree/master/1016-subarray-sums-divisible-by-k) |
 | [2122-count-special-quadruplets](https://github.com/makadiyavatsall/DSA/tree/master/2122-count-special-quadruplets) |
 ## String
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/makadiyavatsall/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/makadiyavatsall/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/makadiyavatsall/DSA/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/makadiyavatsall/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/makadiyavatsall/DSA/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1184-car-pooling](https://github.com/makadiyavatsall/DSA/tree/master/1184-car-pooling) |
 | [1206-corporate-flight-bookings](https://github.com/makadiyavatsall/DSA/tree/master/1206-corporate-flight-bookings) |
