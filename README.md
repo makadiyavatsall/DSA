@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/makadiyavatsall/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/makadiyavatsall/DSA/tree/master/0307-range-sum-query-mutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/makadiyavatsall/DSA/tree/master/0380-insert-delete-getrandom-o1) |
+| [0523-continuous-subarray-sum](https://github.com/makadiyavatsall/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/makadiyavatsall/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/makadiyavatsall/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/makadiyavatsall/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/makadiyavatsall/DSA/tree/master/0242-valid-anagram) |
 | [0380-insert-delete-getrandom-o1](https://github.com/makadiyavatsall/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/makadiyavatsall/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0523-continuous-subarray-sum](https://github.com/makadiyavatsall/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/makadiyavatsall/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/makadiyavatsall/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/makadiyavatsall/DSA/tree/master/0567-permutation-in-string) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/makadiyavatsall/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/makadiyavatsall/DSA/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/makadiyavatsall/DSA/tree/master/0303-range-sum-query-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/makadiyavatsall/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/makadiyavatsall/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/makadiyavatsall/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/makadiyavatsall/DSA/tree/master/0713-subarray-product-less-than-k) |
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/makadiyavatsall/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/makadiyavatsall/DSA/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/makadiyavatsall/DSA/tree/master/0380-insert-delete-getrandom-o1) |
+| [0523-continuous-subarray-sum](https://github.com/makadiyavatsall/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/makadiyavatsall/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 ## Backtracking
 |  |
