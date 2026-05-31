@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/makadiyavatsall/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/makadiyavatsall/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1755-defuse-the-bomb](https://github.com/makadiyavatsall/DSA/tree/master/1755-defuse-the-bomb) |
+| [1929-concatenation-of-array](https://github.com/makadiyavatsall/DSA/tree/master/1929-concatenation-of-array) |
 | [1983-maximum-population-year](https://github.com/makadiyavatsall/DSA/tree/master/1983-maximum-population-year) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/makadiyavatsall/DSA/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/makadiyavatsall/DSA/tree/master/2102-find-the-middle-index-in-array) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/makadiyavatsall/DSA/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/makadiyavatsall/DSA/tree/master/0054-spiral-matrix) |
 | [1184-car-pooling](https://github.com/makadiyavatsall/DSA/tree/master/1184-car-pooling) |
+| [1929-concatenation-of-array](https://github.com/makadiyavatsall/DSA/tree/master/1929-concatenation-of-array) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/makadiyavatsall/DSA/tree/master/3417-zigzag-grid-traversal-with-skip) |
 ## Counting
 |  |
