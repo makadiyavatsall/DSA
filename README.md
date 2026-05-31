@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/makadiyavatsall/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/makadiyavatsall/DSA/tree/master/0307-range-sum-query-mutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/makadiyavatsall/DSA/tree/master/0380-insert-delete-getrandom-o1) |
+| [0485-max-consecutive-ones](https://github.com/makadiyavatsall/DSA/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/makadiyavatsall/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/makadiyavatsall/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/makadiyavatsall/DSA/tree/master/0560-subarray-sum-equals-k) |
