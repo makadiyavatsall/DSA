@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/makadiyavatsall/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/makadiyavatsall/DSA/tree/master/0307-range-sum-query-mutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/makadiyavatsall/DSA/tree/master/0380-insert-delete-getrandom-o1) |
+| [0475-heaters](https://github.com/makadiyavatsall/DSA/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/makadiyavatsall/DSA/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/makadiyavatsall/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/makadiyavatsall/DSA/tree/master/0525-contiguous-array) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/makadiyavatsall/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/makadiyavatsall/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/makadiyavatsall/DSA/tree/master/0392-is-subsequence) |
+| [0475-heaters](https://github.com/makadiyavatsall/DSA/tree/master/0475-heaters) |
 | [0567-permutation-in-string](https://github.com/makadiyavatsall/DSA/tree/master/0567-permutation-in-string) |
 | [0917-boats-to-save-people](https://github.com/makadiyavatsall/DSA/tree/master/0917-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/makadiyavatsall/DSA/tree/master/0948-bag-of-tokens) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/makadiyavatsall/DSA/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/makadiyavatsall/DSA/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/makadiyavatsall/DSA/tree/master/0295-find-median-from-data-stream) |
+| [0475-heaters](https://github.com/makadiyavatsall/DSA/tree/master/0475-heaters) |
 | [0628-maximum-product-of-three-numbers](https://github.com/makadiyavatsall/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0917-boats-to-save-people](https://github.com/makadiyavatsall/DSA/tree/master/0917-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/makadiyavatsall/DSA/tree/master/0948-bag-of-tokens) |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/makadiyavatsall/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/makadiyavatsall/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/makadiyavatsall/DSA/tree/master/0278-first-bad-version) |
+| [0475-heaters](https://github.com/makadiyavatsall/DSA/tree/master/0475-heaters) |
 | [0704-binary-search](https://github.com/makadiyavatsall/DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/makadiyavatsall/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/makadiyavatsall/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
