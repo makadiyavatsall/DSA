@@ -348,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/makadiyavatsall/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0523-continuous-subarray-sum](https://github.com/makadiyavatsall/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/makadiyavatsall/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [1104-path-in-zigzag-labelled-binary-tree](https://github.com/makadiyavatsall/DSA/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -431,4 +432,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/makadiyavatsall/DSA/tree/master/0278-first-bad-version) |
+## Tree
+|  |
+| ------- |
+| [1104-path-in-zigzag-labelled-binary-tree](https://github.com/makadiyavatsall/DSA/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1104-path-in-zigzag-labelled-binary-tree](https://github.com/makadiyavatsall/DSA/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 <!---LeetCode Topics End-->
