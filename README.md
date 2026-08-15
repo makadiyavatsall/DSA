@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/makadiyavatsall/DSA/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/makadiyavatsall/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/makadiyavatsall/DSA/tree/master/0567-permutation-in-string) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/makadiyavatsall/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2465-shifting-letters-ii](https://github.com/makadiyavatsall/DSA/tree/master/2465-shifting-letters-ii) |
 ## Prefix Sum
 |  |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/makadiyavatsall/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0523-continuous-subarray-sum](https://github.com/makadiyavatsall/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/makadiyavatsall/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/makadiyavatsall/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/makadiyavatsall/DSA/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 ## Backtracking
 |  |
@@ -442,4 +444,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/makadiyavatsall/DSA/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/makadiyavatsall/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/makadiyavatsall/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
