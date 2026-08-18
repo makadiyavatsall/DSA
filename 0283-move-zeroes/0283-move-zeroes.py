@@ -1,12 +1,13 @@
-class Solution(object):
-    def moveZeroes(self, nums):
-        i = 0  # slow pointer
-        for j in range(len(nums)):  # fast pointer
-            if nums[j] != 0:
-                nums[i], nums[j] = nums[j], nums[i]
-                i += 1
+class Solution:
+    def moveZeroes(self, nums: List[int]) -> None:
 
+        read, write = 0, 0
+        n = len(nums)
 
+        while read < n:
 
-        
-        
+            if nums[read] != 0:
+                nums[read], nums[write] = nums[write], nums[read]
+                write += 1
+
+            read += 1
