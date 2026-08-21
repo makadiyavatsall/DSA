@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/makadiyavatsall/DSA/tree/master/1470-shuffle-the-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/makadiyavatsall/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/makadiyavatsall/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/makadiyavatsall/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1755-defuse-the-bomb](https://github.com/makadiyavatsall/DSA/tree/master/1755-defuse-the-bomb) |
 | [1929-concatenation-of-array](https://github.com/makadiyavatsall/DSA/tree/master/1929-concatenation-of-array) |
 | [1983-maximum-population-year](https://github.com/makadiyavatsall/DSA/tree/master/1983-maximum-population-year) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/makadiyavatsall/DSA/tree/master/0948-bag-of-tokens) |
 | [1019-squares-of-a-sorted-array](https://github.com/makadiyavatsall/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/makadiyavatsall/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/makadiyavatsall/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/makadiyavatsall/DSA/tree/master/1768-merge-strings-alternately) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/makadiyavatsall/DSA/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Sorting
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/makadiyavatsall/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1184-car-pooling](https://github.com/makadiyavatsall/DSA/tree/master/1184-car-pooling) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/makadiyavatsall/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/makadiyavatsall/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/makadiyavatsall/DSA/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Hash Table
 |  |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/makadiyavatsall/DSA/tree/master/0567-permutation-in-string) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/makadiyavatsall/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/makadiyavatsall/DSA/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/makadiyavatsall/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2122-count-special-quadruplets](https://github.com/makadiyavatsall/DSA/tree/master/2122-count-special-quadruplets) |
 ## String
 |  |
