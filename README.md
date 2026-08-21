@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/makadiyavatsall/DSA/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/makadiyavatsall/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/makadiyavatsall/DSA/tree/master/0307-range-sum-query-mutable) |
+| [0334-increasing-triplet-subsequence](https://github.com/makadiyavatsall/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/makadiyavatsall/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0475-heaters](https://github.com/makadiyavatsall/DSA/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/makadiyavatsall/DSA/tree/master/0485-max-consecutive-ones) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/makadiyavatsall/DSA/tree/master/0045-jump-game-ii) |
 | [0134-gas-station](https://github.com/makadiyavatsall/DSA/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/makadiyavatsall/DSA/tree/master/0135-candy) |
+| [0334-increasing-triplet-subsequence](https://github.com/makadiyavatsall/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/makadiyavatsall/DSA/tree/master/0605-can-place-flowers) |
 | [0917-boats-to-save-people](https://github.com/makadiyavatsall/DSA/tree/master/0917-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/makadiyavatsall/DSA/tree/master/0948-bag-of-tokens) |
@@ -461,4 +463,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/makadiyavatsall/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/makadiyavatsall/DSA/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
