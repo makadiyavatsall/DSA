@@ -1,14 +1,18 @@
-class Solution(object):
-    def pivotIndex(self, nums):
-        total = sum(nums)
-        leftSum = 0
-        
-        for i, num in enumerate(nums):
-            rightSum = total - leftSum - num
-            if leftSum == rightSum:
-                return i
-            leftSum += num
-        
-        return -1
+class Solution:
+    def pivotIndex(self, nums: List[int]) -> int:
 
-            
+        n = len(nums)
+
+        prefix = [0] * n
+        Total = sum(nums)
+
+        for i in range(1, n):
+            prefix[i] = prefix[i-1] + nums[i-1]
+
+        for i in range(n):
+            right = Total - prefix[i] - nums[i]
+
+            if prefix[i] == right:
+                return i
+
+        return -1
