@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/makadiyavatsall/DSA/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/makadiyavatsall/DSA/tree/master/2102-find-the-middle-index-in-array) |
 | [2122-count-special-quadruplets](https://github.com/makadiyavatsall/DSA/tree/master/2122-count-special-quadruplets) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/makadiyavatsall/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2465-shifting-letters-ii](https://github.com/makadiyavatsall/DSA/tree/master/2465-shifting-letters-ii) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/makadiyavatsall/DSA/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3639-zero-array-transformation-i](https://github.com/makadiyavatsall/DSA/tree/master/3639-zero-array-transformation-i) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/makadiyavatsall/DSA/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/makadiyavatsall/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2122-count-special-quadruplets](https://github.com/makadiyavatsall/DSA/tree/master/2122-count-special-quadruplets) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/makadiyavatsall/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 ## String
 |  |
 | ------- |
