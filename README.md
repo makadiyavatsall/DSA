@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/makadiyavatsall/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1184-car-pooling](https://github.com/makadiyavatsall/DSA/tree/master/1184-car-pooling) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/makadiyavatsall/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1657-determine-if-two-strings-are-close](https://github.com/makadiyavatsall/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/makadiyavatsall/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/makadiyavatsall/DSA/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Hash Table
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/makadiyavatsall/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/makadiyavatsall/DSA/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1207-unique-number-of-occurrences](https://github.com/makadiyavatsall/DSA/tree/master/1207-unique-number-of-occurrences) |
+| [1657-determine-if-two-strings-are-close](https://github.com/makadiyavatsall/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/makadiyavatsall/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2122-count-special-quadruplets](https://github.com/makadiyavatsall/DSA/tree/master/2122-count-special-quadruplets) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/makadiyavatsall/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/makadiyavatsall/DSA/tree/master/0567-permutation-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/makadiyavatsall/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/makadiyavatsall/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1657-determine-if-two-strings-are-close](https://github.com/makadiyavatsall/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/makadiyavatsall/DSA/tree/master/1768-merge-strings-alternately) |
 | [2465-shifting-letters-ii](https://github.com/makadiyavatsall/DSA/tree/master/2465-shifting-letters-ii) |
 ## Prefix Sum
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/makadiyavatsall/DSA/tree/master/0169-majority-element) |
+| [1657-determine-if-two-strings-are-close](https://github.com/makadiyavatsall/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1983-maximum-population-year](https://github.com/makadiyavatsall/DSA/tree/master/1983-maximum-population-year) |
 ## Trie
 |  |
